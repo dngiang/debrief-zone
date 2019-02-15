@@ -1,10 +1,8 @@
 <h1 align=center>Debrief Zone</h1>
-
-<h2 align="center"> Create. Share. Follow-Up.
-</h2>
+<h2 align="center"> Create. Share. Follow-Up.</h2>
 
 ## Link
-[Live Page]
+https://debrief-zone.firebaseapp.com/signin
 
 ## About
 
