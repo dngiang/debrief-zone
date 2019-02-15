@@ -2,7 +2,7 @@
 <h2 align="center"> Create. Share. Follow-Up.</h2>
 
 ## Link
-[Live Page] https://debrief-zone.firebaseapp.com/signin
+https://debrief-zone.firebaseapp.com/signin
 
 ## About
 
