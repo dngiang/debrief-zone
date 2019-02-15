@@ -1,68 +1,46 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align=center>Debrief Zone</h1>
 
-## Available Scripts
+<h2 align="center"> Create. Share. Follow-Up.
+</h2>
 
-In the project directory, you can run:
+## Link
+[Live Page]
 
-### `npm start`
+## About
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+As a former researcher myself, I worked very closely with my team and often find our meeting time not long enough for every member to share. I created this "Debrief Zone" app using React in hope to provide a virtual environment for team members to continue sharing after the meeting. That way, everyone is included and every voice is being heard. 
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+## Screenshots
+<p>
+    Login Page. Guest account is provided
+</p>
+<img align="center" src="https://github.com/dngiang/debrief-zone/blob/master/public/img/DZ_LogIn.png" alt="LoginPage"  height=400 width=800>
 
-### `npm test`
+<p>
+    Overall view of the Dashboard including cases and users.
+</p>
+<img align="center" src="https://github.com/dngiang/debrief-zone/blob/master/public/img/DZ_Dashboard.png" alt="Dashboard" height=250 width=800>
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p>
+    See the latest updates and activities of other members!
+</p>
+<img align="center" src="https://github.com/dngiang/debrief-zone/blob/master/public/img/DZ_Notifications.png" alt="Notifications" height=250 width=400>
 
-### `npm run build`
+## Tech Stack
+#### Front End
+  <li>HTML, CSS, JS</li>
+  <li>React, Redux, Thunk</li>
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### Back End
+  <li>Firebase</li>
+  <li>Google Firebase Cloud functions</li>
+  
+#### Testing
+   <li>Enzyme</li>
+   <li>command: yarn test</li>
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+#### Others
+  <li>Moment</li>
+  <li>Materialize UI</li>
+  <li>Github</li>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
