@@ -58,3 +58,9 @@ a.brand-logo {
       max-width: 1600px;
   }
 }
+
+@media screen and (min-width: 1800px) {
+  body {
+      max-width: 1800px;
+  }
+}
