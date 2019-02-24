@@ -1,4 +1,7 @@
 <h1 align=center>Debrief Zone</h1>
+<p align="center" size=10>
+    <img src="https://blogs.salford.ac.uk/research/wp-content/uploads/sites/31/2018/03/Testimonial.png" width=100 height= 100 alt="Goaling logo">
+</p>
 <h2 align="center"> Create. Share. Follow-Up.</h2>
 
 ## Link
